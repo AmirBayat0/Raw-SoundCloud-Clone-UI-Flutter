@@ -1,5 +1,5 @@
 # Raw SoundCloud Clone UI using Flutter
-## ScreenShots
+## Preview
 
 
 # ⚠️ Essential Packages 
