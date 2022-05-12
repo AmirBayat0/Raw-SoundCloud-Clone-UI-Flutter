@@ -1,11 +1,7 @@
 # Raw SoundCloud Clone UI using Flutter
 ## Preview
-https://www.instagram.com/tv/Ca6jClsAJXn/?utm_medium=copy_link
 
-# ⚠️ Essential Packages 
-* google_nav_bar: ^5.0.5
-* line_icons: ^2.0.1
-* animate_do: ^2.1.0
+* [Part 1](https://www.instagram.com/tv/Cddd3m3DFuH/?utm_source=ig_web_copy_link)
 ## Links
 * [My Socials](https://znap.link/CodeWithFlexz)
 * [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
